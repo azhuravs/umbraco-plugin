@@ -1,0 +1,14 @@
+d:\Data\Inetpub\GatherConnect\UmbracoConnector\src\Modules\GatherContent.Connector.Entities\bin\Debug\GatherContent.Connector.Entities.dll
+d:\Data\Inetpub\GatherConnect\UmbracoConnector\src\Modules\GatherContent.Connector.Entities\bin\Debug\GatherContent.Connector.Entities.pdb
+d:\Data\Inetpub\GatherConnect\UmbracoConnector\src\Modules\GatherContent.Connector.Entities\bin\Debug\Newtonsoft.Json.dll
+d:\Data\Inetpub\GatherConnect\UmbracoConnector\src\Modules\GatherContent.Connector.Entities\bin\Debug\Newtonsoft.Json.xml
+d:\Data\Inetpub\GatherConnect\UmbracoConnector\src\Modules\GatherContent.Connector.Entities\obj\Debug\GatherContent.Connector.Entities.dll
+d:\Data\Inetpub\GatherConnect\UmbracoConnector\src\Modules\GatherContent.Connector.Entities\obj\Debug\GatherContent.Connector.Entities.pdb
+D:\Data\Inetpub\GatherConnect\UmbracoConnector\src\Modules\GatherContent.Connector.Entities\obj\Debug\GatherContent.Connector.Entities.csprojResolveAssemblyReference.cache
+D:\Data\Inetpub\GatherConnect\UmbracoConnector\public-src\Modules\GatherContent.Connector.Entities\bin\Debug\GatherContent.Connector.Entities.dll
+D:\Data\Inetpub\GatherConnect\UmbracoConnector\public-src\Modules\GatherContent.Connector.Entities\bin\Debug\GatherContent.Connector.Entities.pdb
+D:\Data\Inetpub\GatherConnect\UmbracoConnector\public-src\Modules\GatherContent.Connector.Entities\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Inetpub\GatherConnect\UmbracoConnector\public-src\Modules\GatherContent.Connector.Entities\bin\Debug\Newtonsoft.Json.xml
+D:\Data\Inetpub\GatherConnect\UmbracoConnector\public-src\Modules\GatherContent.Connector.Entities\obj\Debug\GatherContent.Connector.Entities.csprojResolveAssemblyReference.cache
+D:\Data\Inetpub\GatherConnect\UmbracoConnector\public-src\Modules\GatherContent.Connector.Entities\obj\Debug\GatherContent.Connector.Entities.dll
+D:\Data\Inetpub\GatherConnect\UmbracoConnector\public-src\Modules\GatherContent.Connector.Entities\obj\Debug\GatherContent.Connector.Entities.pdb

@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{2E80067B-A8EF-4EF2-BB43-B48E3EA15D9F}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatherContent.Connector.Entities", "Modules\GatherContent.Connector.Entities\GatherContent.Connector.Entities.csproj", "{A40787E3-7DF6-41B9-90C0-41704AEA2BE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatherContent.Connector.GatherContentService", "Modules\GatherContent.Connector.GatherContentService\GatherContent.Connector.GatherContentService.csproj", "{42B1CCBC-1FC4-4601-9D53-63B69AFAB68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatherContent.Connector.Umbraco", "Umbraco\GatherContent.Connector.Umbraco\GatherContent.Connector.Umbraco.csproj", "{90D1BFBC-30E4-4A96-ADFD-CF1532B9D89F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatherContent.Connector.UmbracoWebControllers", "Modules\GatherContent.Connector.UmbracoWebControllers\GatherContent.Connector.UmbracoWebControllers.csproj", "{D9EB6C0E-148D-403D-B4F7-38A5F46E5957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatherContent.Connector.IRepositories", "Modules\GatherContent.Connector.IRepositories\GatherContent.Connector.IRepositories.csproj", "{D164C4DD-8A92-43D0-B5D3-7F43C13D660C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatherContent.Connector.UmbracoRepositories", "Modules\GatherContent.Connector.UmbracoRepositories\GatherContent.Connector.UmbracoRepositories.csproj", "{783E134A-43F7-4700-BA0B-5EB4C0108CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatherContent.Connector.UmbracoManagers", "Modules\GatherContent.Connector.UmbracoManagers\GatherContent.Connector.UmbracoManagers.csproj", "{11CB73A3-27B2-4036-B9E1-04698CCB9CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release 7.2|Any CPU = Release 7.2|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40787E3-7DF6-41B9-90C0-41704AEA2BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40787E3-7DF6-41B9-90C0-41704AEA2BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40787E3-7DF6-41B9-90C0-41704AEA2BE3}.Release 7.2|Any CPU.ActiveCfg = Release|Any CPU
+		{A40787E3-7DF6-41B9-90C0-41704AEA2BE3}.Release 7.2|Any CPU.Build.0 = Release|Any CPU
+		{A40787E3-7DF6-41B9-90C0-41704AEA2BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40787E3-7DF6-41B9-90C0-41704AEA2BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B1CCBC-1FC4-4601-9D53-63B69AFAB68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B1CCBC-1FC4-4601-9D53-63B69AFAB68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B1CCBC-1FC4-4601-9D53-63B69AFAB68D}.Release 7.2|Any CPU.ActiveCfg = Release 7|Any CPU
+		{42B1CCBC-1FC4-4601-9D53-63B69AFAB68D}.Release 7.2|Any CPU.Build.0 = Release 7|Any CPU
+		{42B1CCBC-1FC4-4601-9D53-63B69AFAB68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B1CCBC-1FC4-4601-9D53-63B69AFAB68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D1BFBC-30E4-4A96-ADFD-CF1532B9D89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D1BFBC-30E4-4A96-ADFD-CF1532B9D89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D1BFBC-30E4-4A96-ADFD-CF1532B9D89F}.Release 7.2|Any CPU.ActiveCfg = Release|Any CPU
+		{90D1BFBC-30E4-4A96-ADFD-CF1532B9D89F}.Release 7.2|Any CPU.Build.0 = Release|Any CPU
+		{90D1BFBC-30E4-4A96-ADFD-CF1532B9D89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D1BFBC-30E4-4A96-ADFD-CF1532B9D89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9EB6C0E-148D-403D-B4F7-38A5F46E5957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EB6C0E-148D-403D-B4F7-38A5F46E5957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EB6C0E-148D-403D-B4F7-38A5F46E5957}.Release 7.2|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EB6C0E-148D-403D-B4F7-38A5F46E5957}.Release 7.2|Any CPU.Build.0 = Release|Any CPU
+		{D9EB6C0E-148D-403D-B4F7-38A5F46E5957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EB6C0E-148D-403D-B4F7-38A5F46E5957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D164C4DD-8A92-43D0-B5D3-7F43C13D660C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D164C4DD-8A92-43D0-B5D3-7F43C13D660C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D164C4DD-8A92-43D0-B5D3-7F43C13D660C}.Release 7.2|Any CPU.ActiveCfg = Release|Any CPU
+		{D164C4DD-8A92-43D0-B5D3-7F43C13D660C}.Release 7.2|Any CPU.Build.0 = Release|Any CPU
+		{D164C4DD-8A92-43D0-B5D3-7F43C13D660C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D164C4DD-8A92-43D0-B5D3-7F43C13D660C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783E134A-43F7-4700-BA0B-5EB4C0108CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783E134A-43F7-4700-BA0B-5EB4C0108CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783E134A-43F7-4700-BA0B-5EB4C0108CDE}.Release 7.2|Any CPU.ActiveCfg = Release|Any CPU
+		{783E134A-43F7-4700-BA0B-5EB4C0108CDE}.Release 7.2|Any CPU.Build.0 = Release|Any CPU
+		{783E134A-43F7-4700-BA0B-5EB4C0108CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783E134A-43F7-4700-BA0B-5EB4C0108CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CB73A3-27B2-4036-B9E1-04698CCB9CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CB73A3-27B2-4036-B9E1-04698CCB9CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CB73A3-27B2-4036-B9E1-04698CCB9CDF}.Release 7.2|Any CPU.ActiveCfg = Release|Any CPU
+		{11CB73A3-27B2-4036-B9E1-04698CCB9CDF}.Release 7.2|Any CPU.Build.0 = Release|Any CPU
+		{11CB73A3-27B2-4036-B9E1-04698CCB9CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CB73A3-27B2-4036-B9E1-04698CCB9CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

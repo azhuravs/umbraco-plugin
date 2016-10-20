@@ -1,0 +1,2 @@
+d:\Data\Inetpub\GatherConnect\UmbracoConnector\src\Modules\GatherContent.Connector.UmbracoWebControllers\obj\Debug\GatherContent.Connector.UmbracoWebControllers.csprojResolveAssemblyReference.cache
+D:\Data\Inetpub\GatherConnect\UmbracoConnector\public-src\Modules\GatherContent.Connector.UmbracoWebControllers\obj\Debug\GatherContent.Connector.UmbracoWebControllers.csprojResolveAssemblyReference.cache
